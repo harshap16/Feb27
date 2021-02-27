@@ -31,6 +31,11 @@ public class MyFirstTestCase
 		System.out.println("Test 2 Dummy");
 		Assert.assertTrue(false);
 	}
-	
+	@Test
+	public void TitleMatch1()
+	{
+		System.out.println("Test 2 Dummy");
+		Assert.assertTrue(false);
+	}
 	
 }
